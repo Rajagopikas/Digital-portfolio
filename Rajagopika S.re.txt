@@ -1,0 +1,13 @@
+personal details
+
+
+Name            : S.Rajagopika
+Date of birth   : 07/02/2006
+Gender          : female
+
+
+Education 
+
+Department      : BCA
+University      : Bharadhisan university
+
